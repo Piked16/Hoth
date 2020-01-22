@@ -11,7 +11,7 @@ app-drawer[persistent] {
     width: var(--app-drawer-width, 256px);
 }
 body { 
-  background-image: url("https://i.pinimg.com/originals/25/f1/eb/25f1ebec7b31adafebcbf91708d3e90c.jpg");
+  background: url("https://i.pinimg.com/originals/25/f1/eb/25f1ebec7b31adafebcbf91708d3e90c.jpg");
   }
 
 
