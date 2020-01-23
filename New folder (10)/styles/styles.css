@@ -1,4 +1,8 @@
-
+.title-contactus{
+  text-align:center;
+  font-size: 300px;
+padding: 100px;
+}
 
 body, html{
 		width: 100%;
@@ -210,12 +214,7 @@ doodle.show-logo{
   background-color: white;
   }
 
-.title-contactus{
-  text-align:left-center;
-  font-size: 300px;
-padding: 100px;
-  text-color: red;
-}
+
 
 .container-fluid{ 
   background-color:transparent;
